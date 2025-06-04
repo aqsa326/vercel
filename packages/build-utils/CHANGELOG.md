@@ -1,5 +1,11 @@
 # @vercel/build-utils
 
+## 10.6.1
+
+### Patch Changes
+
+- Make architecture a defined property on Lambda classes to apply when creating ([#13398](https://github.com/vercel/vercel/pull/13398))
+
 ## 10.6.0
 
 ### Minor Changes
